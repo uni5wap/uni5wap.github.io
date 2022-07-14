@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-14_1109",
+    "name": "uniswap",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -36,6 +36,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.6.11",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/uniswap-logo.png",
+    "mbrsiteDomain": "me4haz36qk",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.6.11"
   },
@@ -43,8 +52,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Uniswaρ | Homé",
+        "meta_descr": "Uniswap exchange provides users with liquidity pools. This “pool” allows users to move their funds to and fro from it. Released in the year 2018, this exchange or its programs are still under progress, therefore using it has its downsides as well.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
